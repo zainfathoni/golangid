@@ -1,7 +1,7 @@
 # golang.id
 
-: golang.id pilot site.
-: golang.id situs awalan.
+> golang.id situs awalan | golang.id pilot site
+golang id dibangun menggunakan [hugo](https://gohugo.io/) dengan theme minimal
 
 ## contribute
 
