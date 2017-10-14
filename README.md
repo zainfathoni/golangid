@@ -22,3 +22,6 @@ rencana :
 
 ## thanks to
 [golang](https://golang.org/) | [hugo](https://gohugo.io/) | [minimal](https://github.com/calintat/minimal)
+
+> untuk informasi domain dan hosting bisa langsung menghubungi saya, terimakasih
+
